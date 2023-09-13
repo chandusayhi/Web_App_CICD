@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to CICD Demonstration <font></h1>
+<h1><font color='red'> Welcome to CICD Pipeline Demonstration  <font></h1>
 
 <a href="https://github.com/chandusayhi">Click Here To See Chandrakant Profile</a>
   
